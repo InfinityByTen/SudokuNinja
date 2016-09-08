@@ -26,7 +26,7 @@ make up Sudoku Ninja v1.0 Beta and explains how can you use it to solve a sudoku
 Sample*.txt
 
 These are a few samples of the sudoku puzzle to give you a headstart.
-You can create your own puzzle file (sorced from wherever you may please).
+You can create your own puzzle file (sourced from wherever you may please).
 The method to create a puzzle file is explained below.
 
 
