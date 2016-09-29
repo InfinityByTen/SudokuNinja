@@ -1,7 +1,7 @@
 # SudokuNinja
 
 A C++ project to solve a standard 9x9 sudoku, including faulty ones that may allow for multiple solutions.
-Implements heuristic methods and bfs-based brute search for faulty and tougher cases. 
+Implements heuristic methods and dfs-based brute search for faulty and tougher cases. 
 
 This was developed during my junior year (2011) in college when I was learning the language and programming.  
 This is my style of learning: pick up a tough challenge and learn on the way. 
