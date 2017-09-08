@@ -10,19 +10,12 @@ Here's the original README (inclusive of naivety) below:
 
 NOTE: The original package was compiled in windows and had an .exe executable. Now, the user, must compile and run ;)
 
-==================================================================================================
+=====================================================================================
                        SUDOKU NINJA V1.0 BETA
-==================================================================================================
+=====================================================================================
                   Designed and Developed by ASEEM DUA.
 
-
-Copyright when the final version is ready. :P 
-
-
-This file contains a summary of what you will find in each of the files that
-make up Sudoku Ninja v1.0 Beta and explains how can you use it to solve a sudoku.
-
-**************************************************************************************************
+*************************************************************************************
 Sample*.txt
 
 These are a few samples of the sudoku puzzle to give you a headstart.
@@ -37,10 +30,10 @@ This the actual application. You just need to run it once you have a puzzle file
 Leave the rest to the Sudoku Ninja !!! 
 
 
-**************************************************************************************************
+***************************************************************************************
 
 
-//////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////
 
 
 HoW TO CREATE A SUDOKU PUZZLE FILE & USE THE APP ?
@@ -86,4 +79,4 @@ eg. WHAT IN THE REAL WORLD WOULD LOOK LIKE :-
 
 5. RUN THE .exe FILE !!!
 		
-/////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////
