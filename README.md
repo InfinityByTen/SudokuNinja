@@ -10,12 +10,12 @@ Here's the original README (inclusive of naivety) below:
 
 NOTE: The original package was compiled in windows and had an .exe executable. Now, the user, must compile and run ;)
 
-=====================================================================================
-                       SUDOKU NINJA V1.0 BETA
-=====================================================================================
+===============================================================================
+SUDOKU NINJA V1.0 BETA
+===============================================================================
                   Designed and Developed by ASEEM DUA.
 
-*************************************************************************************
+*******************************************************************************
 Sample*.txt
 
 These are a few samples of the sudoku puzzle to give you a headstart.
@@ -25,21 +25,22 @@ The method to create a puzzle file is explained below.
 
 Sudoku Ninja.exe
 
-This the actual application. You just need to run it once you have a puzzle file ready. 
+This the actual application. You just need to run it once you have a puzzle 
+file ready. 
 
 Leave the rest to the Sudoku Ninja !!! 
 
 
-***************************************************************************************
+******************************************************************************
 
 
-///////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////
 
 
 HoW TO CREATE A SUDOKU PUZZLE FILE & USE THE APP ?
 
-1. SOURCE A GENUINE SUDOKU PUZZLE FROM ANYWHERE. GENUINE IMPLIES IT SHOULDN'T BE
-   INCORRECT IN ITSELF, eg. Duplicacy in rows, colums or 3x3 boxes.
+1. SOURCE A GENUINE SUDOKU PUZZLE FROM ANYWHERE. GENUINE IMPLIES IT SHOULDN'T 
+   BE INCORRECT IN ITSELF, eg. Duplicacy in rows, colums or 3x3 boxes.
 
 2. REPLACE EACH BLACK BY A "." AND LEAVE THE NUMBERS AS IT IS.
 
@@ -75,8 +76,9 @@ eg. WHAT IN THE REAL WORLD WOULD LOOK LIKE :-
 	
     ALL OF IT IN LEFT INDENTATION WITHOUT ANY SPACES ANYWHERE.
 
-4. SAVE THE FILE AND KEEP IT IN THE SAME FOLDER AS THE Sudoku Ninja.exe FILE.
+4. SAVE THE FILE AND KEEP IT IN THE SAME FOLDER AS THE Sudoku 
+   Ninja.exe FILE.
 
 5. RUN THE .exe FILE !!!
 		
-/////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////
